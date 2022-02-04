@@ -41,7 +41,7 @@ new Vector3(2129.059f, 4793.998f, 41.12133f),
 
         public StolenPlane()
         {
-            Vector3 location = coordinates.OrderBy(x => World.GetDistance(x, Game.PlayerPed.Position)).Skip(1).First();
+            Vector3 location = coordinates.OrderBy(x => World.GetDistance(x, Game.PlayerPed.Position)).Skip(2).First();
 
             InitInfo(location);
             ShortName = "Stolen Plane";
