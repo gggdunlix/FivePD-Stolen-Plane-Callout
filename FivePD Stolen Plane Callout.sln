@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FivePD Stolen Plane Callout", "FivePD Stolen Plane Callout\FivePD Stolen Plane Callout.csproj", "{D9668B59-45CF-4810-8BC0-244C3BA92ECA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9668B59-45CF-4810-8BC0-244C3BA92ECA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9668B59-45CF-4810-8BC0-244C3BA92ECA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9668B59-45CF-4810-8BC0-244C3BA92ECA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9668B59-45CF-4810-8BC0-244C3BA92ECA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {285C55BB-4955-4948-AB00-D08DECE85F2B}
+	EndGlobalSection
+EndGlobal
